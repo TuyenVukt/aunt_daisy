@@ -355,7 +355,7 @@ h2{
 }
 /* ourstory */
 .ourstory{
-    background-image: url(http://mauweb.thietkewebbeta.com/khogiaodien/food01/wp-content/uploads/2019/08/bg-pattern.jpg);
+    background-image: url(img/bg-pattern.jpg);
     padding-top: 60px;
     padding-bottom:80px;
     font-family: 'Montserrat', sans-serif;
@@ -569,7 +569,7 @@ p.no2{
 }
 .fillin-left{
     width: 50%; 
-    background-image: url(http://mauweb.thietkewebbeta.com/khogiaodien/food01/wp-content/uploads/2019/08/3250_1a_c_photography_restaurants___food_port_13_2.jpg);     background-repeat: no-repeat;
+    background-image: url(img/3250_1a_c_photography_restaurants___food_port_13_2.jpg);     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
 }
@@ -610,7 +610,7 @@ p.no3{
 p.no4{font-size: 15px;color: #333; margin-bottom: 15px}
 /* footer */
 .footer{
-    background-image: url(http://mauweb.thietkewebbeta.com/khogiaodien/food01/wp-content/uploads/2019/09/travel-landscape-01.jpg) ;
+    background-image: url(img/travel-landscape-01.jpg) ;
     width:100%;
     min-height: 270px;
     background-repeat: no-repeat;
